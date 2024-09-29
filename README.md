@@ -1,4 +1,4 @@
-# Overview
+# Overview 
 
 This project contains core low-level incremental ("streaming") parser and generator abstractions used by
 [Jackson Data Processor](https://github.com/FasterXML/jackson).
